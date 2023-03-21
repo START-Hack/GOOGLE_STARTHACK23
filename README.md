@@ -9,7 +9,7 @@ Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis feli
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
+<p align="center"> https://github.com/START-Hack/GOOGLE_STARTHACK23/blob/dbebab07f5d1279ee5cafecaa94593443a731472/case%20presentation.pdf </p>
 
 ## <p align="center"> Deep Dive Slides: </p>
 
