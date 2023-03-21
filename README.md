@@ -37,8 +37,9 @@ You can use Google Cloud's free offerings to access the flight emissions API, ot
 ## <p align="center"> Judging Criteria: </p>
 
 Potential climate impact:
--	Can this solution achieve Incremental improvements for many people/businesses or 
--	Major improvements for few people/businesses? Creativity & innovation of solution: 
+-	Can this solution achieve Incremental improvements for many people/businesses or major improvements for few people/businesses? 
+	
+Creativity & innovation of solution: 
 -	How original are these ideas? 
 
 Technical sophistication & feasibility: 
@@ -49,7 +50,7 @@ Technical sophistication & feasibility:
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Oliver Dolk or Max Vogler will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Oliver Dolk and Max Vogler will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
