@@ -38,12 +38,12 @@ You can use Google Cloud's free offerings to access the flight emissions API, ot
 
 Potential climate impact:
 -	Can this solution achieve Incremental improvements for many people/businesses or 
--	major improvements for few people/businesses? Creativity & innovation of solution: 
+-	Major improvements for few people/businesses? Creativity & innovation of solution: 
 -	How original are these ideas? 
 
 Technical sophistication & feasibility: 
--	Is this solution backed properly by di erent data sources or does it only use hardcoded demo data? 
--	How generalized is this technical solution? Does it only work in ce ain demo cases? 
+-	Is this solution backed properly by different data sources or does it only use hardcoded demo data? 
+-	How generalized is this technical solution? Does it only work in certain demo cases? 
 -	Are there fundamental issues preventing a real implementation? 
 -	We fully understand the time constraints of the Hackathon. Prototypical code and lack of automated tests is acceptable. 
 
