@@ -5,7 +5,6 @@
 ## <p align="center"> Case Introduction: </p>
 
 Google is challenging you to come up with an innovative solution that helps individuals understand and reduce their personal impact on climate change. The final product can take any form but must involve a live demonstration with a technical component. Let's hack our way to a better future!
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
 
 ## <p align="center"> The Pitch: </p>
 
@@ -23,7 +22,7 @@ Company Datasets / APIs:
 - Flights emissions: https://developers.google.com/travel/impact-model/docs/reference/rest/v1/�ights/c omputeFlightEmissions
 - Gmail API: https://developers.google.com/gmail/api/reference/rest
 - Eco friendly routes: https://developers.google.com/maps/documentation/routes/eco-routes
-- Historical insights data (TBD - depends on internal legal approval)
+
 
 Government Datasets:
 - https://www.gov.uk/government/statistics/uks-carbon-footprint
@@ -50,9 +49,9 @@ Technical sophistication & feasibility:
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Oliver Dolk or Max Vogler will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### Face-to-face lunch with the Travel Sustainability team in Google's Zurich offce, offce tour, and Google hardware.
+### Face-to-face lunch with the Travel Sustainability team in Google's Zurich office, office tour, and 4 Google Nest Hub (2nd Gen).
