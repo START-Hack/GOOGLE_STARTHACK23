@@ -19,7 +19,7 @@ Google is challenging you to come up with an innovative solution that helps indi
 Hackers can make use of any of the below datasets or any other government or vetted datasets they find themselves.
 
 Company Datasets / APIs:
-- Flights emissions: https://developers.google.com/travel/impact-model/docs/reference/rest/v1/�ights/c omputeFlightEmissions
+- Flights emissions: https://developers.google.com/travel/impact-model/docs/reference/rest/v1/insights/computeFlightEmissions
 - Gmail API: https://developers.google.com/gmail/api/reference/rest
 - Eco friendly routes: https://developers.google.com/maps/documentation/routes/eco-routes
 
