@@ -19,7 +19,7 @@ Find the slides [here](https://github.com/START-Hack/GOOGLE_STARTHACK23/blob/dbe
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+Find the slides [here](https://github.com/START-Hack/GOOGLE_STARTHACK23/blob/main/START%20Hack%20Deep%20Dive%20Google%20Sustainability.pdf)
 
 ## <p align="center"> Data: </p>
 
