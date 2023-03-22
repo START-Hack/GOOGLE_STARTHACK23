@@ -48,7 +48,9 @@ Technical sophistication & feasibility:
 -	Is this solution backed properly by different data sources or does it only use hardcoded demo data? 
 -	How generalized is this technical solution? Does it only work in certain demo cases? 
 -	Are there fundamental issues preventing a real implementation? 
--	We fully understand the time constraints of the Hackathon. Prototypical code and lack of automated tests is acceptable. 
+-	We fully understand the time constraints of the Hackathon. Prototypical code and lack of automated tests is acceptable.
+
+Usability
 
 ## <p align="center"> Point of Contact: </p>
 
