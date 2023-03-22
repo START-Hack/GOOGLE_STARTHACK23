@@ -53,10 +53,10 @@ Potential climate impact 40%:
 -	Can this solution achieve Incremental improvements for many people or major improvements for few people? 
 -	How well does this solution solve your scoped problem?
 	
-Creativity & innovation of solution 30%: 
+Creativity & innovation of solution 20%: 
 -	How original are these ideas?
 
-Technical sophistication & feasibility 30%: 
+Technical sophistication & feasibility 40%: 
 -	Is this solution backed properly by different data sources or does it only use hardcoded demo data? 
 -	How generalized is this technical solution? Does it only work in certain demo cases? 
 -	Are there fundamental issues preventing a real implementation? 
