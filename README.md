@@ -6,6 +6,8 @@
 
 Google is challenging you to come up with an innovative solution that helps individuals understand and reduce their personal impact on climate change. The final product can take any form but must involve a live demonstration with a technical component. Let's hack our way to a better future!
 
+Participants are encouraged to find use cases and can narrow the scope of their project as long as it falls within the bounds of the overall problem statement. An example use case that we have within Google Flights is: Google Flights helps users to quantify how many KG CO2 a flight will emit. This enables them to make a sustainable choice by choosing a less emitting flight.
+
 ## <p align="center"> The Pitch: </p>
 
 <p align="center"> https://github.com/START-Hack/GOOGLE_STARTHACK23/blob/dbebab07f5d1279ee5cafecaa94593443a731472/case%20presentation.pdf </p>
