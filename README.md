@@ -66,7 +66,7 @@ Please note: Even though this is a Google sponsored hack case your solution DOES
 
 ## <p align="center"> Point of Contact: </p>
 
-Oliver Dolk and Max Vogler will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
+Oliver Dolk and Max Vogler will be glad to answer your questions during the Deep Dive. We’ll also be available on [Discord](https://discord.com/channels/943159146616852490/1080855903781257318).
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
