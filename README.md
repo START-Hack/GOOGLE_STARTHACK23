@@ -4,7 +4,7 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-Google is challenging you to come up with an innovative solution that: Help individuals understand their personal impact on climate change and/or enable them to act to reduce personal emissions. The final product can take any form but must involve a live demonstration with a technical component.
+Google is challenging you to come up with an innovative solution that: Helps individuals understand their personal impact on climate change and/or enable them to act to reduce personal emissions. The final product can take any form but must involve a live demonstration with a technical component.
 
 Participants are encouraged to find use cases and can narrow the scope of their project as long as it falls within the bounds of the overall problem statement. Please feel free to bounce ideas off Oli and Max when it comes to scoping portions of the project. 
 
