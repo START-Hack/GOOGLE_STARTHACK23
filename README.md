@@ -8,7 +8,7 @@ Google is challenging you to come up with an innovative solution that: Helps ind
 
 Participants are encouraged to find use cases and can narrow the scope of their project as long as it falls within the bounds of the overall problem statement. Please feel free to bounce ideas off Oli and Max when it comes to scoping portions of the project. 
 
-An example use case that we have within Google Flights is: Google Flights helps users to quantify how many KG CO2 a flight will emit. This enables them to make a sustainable choice by choosing a less emitting flight.
+An example use case that we have within Google Flights is: Google Flights helps users to quantify how many KG CO2 a flight will emit. This enables users to make a sustainable choice by choosing a less emitting flight.
 
 ![43oUBpS8DeEPwic](https://user-images.githubusercontent.com/128406087/226878726-68a8d32e-43d2-4aee-8975-579ec378fbc9.png)
 
